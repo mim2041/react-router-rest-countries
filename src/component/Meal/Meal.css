@@ -1,0 +1,33 @@
+/* .meal{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+} */
+
+.meal{
+    background-color: rgb(191, 221, 233);
+    padding: 15px;
+    border-radius: 8px;
+    
+}
+
+.meal h3{
+    height: 100px;
+}
+
+.meal img{
+    width: 100%;
+    /* padding: 10px; */
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 15px;
+}
+
+.link{
+    margin-bottom: 10px;
+}
+
+.meal button{
+    border-radius: 5px;
+    
+    background: skyblue;
+    color: blue;
+}
